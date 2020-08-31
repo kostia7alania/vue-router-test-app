@@ -13,7 +13,7 @@ Vue.use(VueRouter);
 
 const router = new VueRouter({
   routes,
-  mode: "history",
+  // mode: "history", // for git pages 
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
       VueScrollTo.scrollTo("#app", 500, { offset: savedPosition.y });
