@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["auth-Forgot"],{6702:function(t,e,n){"use strict";n.r(e);var o=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[t._v(" Forgot Page ")])},r=[],u=n("2877"),a={},l=Object(u["a"])(a,o,r,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=auth-Forgot.125b43d6.js.map

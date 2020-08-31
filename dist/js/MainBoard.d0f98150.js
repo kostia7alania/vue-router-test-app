@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["MainBoard"],{ff42:function(e,n,a){"use strict";a.r(n);var r=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[a("h1",[e._v("Main Board Page")]),a("router-view")],1)},t=[],i=a("2877"),o={},u=Object(i["a"])(o,r,t,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=MainBoard.d0f98150.js.map
